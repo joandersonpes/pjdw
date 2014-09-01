@@ -1,0 +1,15 @@
+#btusuario{
+			width: 23%;
+			padding: 3px;
+			color: white;
+
+			margin-top: 4px;
+			margin-left: 4px;
+			display: inline-block;
+			border: dotted;
+			text-decoration: none;
+			border:solid 1px #DEDEDE; 
+			border-radius:5px;
+			background-color: #953239;
+}
+

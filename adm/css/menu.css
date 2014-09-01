@@ -1,0 +1,82 @@
+a#bt{		
+	text-decoration: none;
+	color:white;
+}
+
+
+#back1{
+	background-color: #cd6868;
+	width:85%;
+	height: 95%;
+	z-index: 1;
+	padding: auto;
+	margin: auto;
+}
+#titulo {
+	width: 99.1%;
+	height: 100px;
+	margin: auto;
+	z-index: 5;
+	text-align: center;
+	font-size:16px;
+	border-style: dotted solid double dashed;
+	font-family: fantasy;
+	background-color: #953239;
+	color: white;
+}
+
+
+#tito{ /*titulo APLICAÇÃO REDES */
+	font-size: 30px;
+	margin: 30px;
+	text-align: center;
+}
+
+#menubt{
+	margin-top: 4px;
+	margin-left: 4px;
+	display: inline-block;
+	border: dotted;
+	width: 14.7%;
+	text-align: center;
+	text-decoration: none;
+	border:solid 1px #DEDEDE; 
+	border-radius:5px;
+	padding:5px; 
+	color:#fff;
+}
+
+#menubt:hover{
+	
+	background-color: #cd6868;
+
+}
+
+
+#roda{
+	
+	background-color: #cd6868;
+	width: 85%;
+	text-align: center;
+	padding: auto;
+	margin: auto;
+	color:white;
+	
+}
+
+#menubth{
+	margin-top: 4px;
+	margin-left: 4px;
+	display: inline-block;
+	border: groove;
+	width: 14.7%;
+	padding: 6px;
+	text-align: center;
+	text-decoration: none;
+
+	border-radius: 40px;
+	color: white;
+	background-color: #3e6722;
+}
+
+</style>

@@ -1,0 +1,22 @@
+#ping{
+
+	text-align: center;
+	font-size: 16px;
+}
+
+#site{
+	margin-top: 2%;
+	font-size: 16px;
+}
+
+#backping {
+	background-color: black;
+	color: white;
+	width: 80%;
+	
+	margin: auto;
+	padding: 10px;
+	height: auto;
+
+}
+
